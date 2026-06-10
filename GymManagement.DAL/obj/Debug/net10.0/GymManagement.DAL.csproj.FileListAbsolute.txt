@@ -1,0 +1,15 @@
+E:\GymManagementSystem02\GymManagement.DAL\bin\Debug\net10.0\GymManagement.DAL.deps.json
+E:\GymManagementSystem02\GymManagement.DAL\bin\Debug\net10.0\GymManagement.DAL.runtimeconfig.json
+E:\GymManagementSystem02\GymManagement.DAL\bin\Debug\net10.0\GymManagement.DAL.dll
+E:\GymManagementSystem02\GymManagement.DAL\bin\Debug\net10.0\GymManagement.DAL.pdb
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\GymManagement.DAL.csproj.AssemblyReference.cache
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\GymManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\GymManagement.DAL.AssemblyInfoInputs.cache
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\GymManagement.DAL.AssemblyInfo.cs
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\GymManagement.DAL.csproj.CoreCompileInputs.cache
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\GymManagement.DAL.sourcelink.json
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\GymManagement.DAL.dll
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\refint\GymManagement.DAL.dll
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\GymManagement.DAL.pdb
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\GymManagement.DAL.genruntimeconfig.cache
+E:\GymManagementSystem02\GymManagement.DAL\obj\Debug\net10.0\ref\GymManagement.DAL.dll

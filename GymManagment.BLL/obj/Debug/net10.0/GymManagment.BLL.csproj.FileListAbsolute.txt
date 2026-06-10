@@ -1,0 +1,16 @@
+E:\GymManagementSystem02\GymManagment.BLL\bin\Debug\net10.0\GymManagment.BLL.deps.json
+E:\GymManagementSystem02\GymManagment.BLL\bin\Debug\net10.0\GymManagment.BLL.dll
+E:\GymManagementSystem02\GymManagment.BLL\bin\Debug\net10.0\GymManagment.BLL.pdb
+E:\GymManagementSystem02\GymManagment.BLL\bin\Debug\net10.0\GymManagement.DAL.dll
+E:\GymManagementSystem02\GymManagment.BLL\bin\Debug\net10.0\GymManagement.DAL.pdb
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\GymManagment.BLL.csproj.AssemblyReference.cache
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\GymManagment.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\GymManagment.BLL.AssemblyInfoInputs.cache
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\GymManagment.BLL.AssemblyInfo.cs
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\GymManagment.BLL.csproj.CoreCompileInputs.cache
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\GymManagment.BLL.sourcelink.json
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\GymManag.70B36A2B.Up2Date
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\GymManagment.BLL.dll
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\refint\GymManagment.BLL.dll
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\GymManagment.BLL.pdb
+E:\GymManagementSystem02\GymManagment.BLL\obj\Debug\net10.0\ref\GymManagment.BLL.dll

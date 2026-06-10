@@ -34,8 +34,7 @@
               "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Classes\\GenericRepository.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAuwCoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T23:37:31.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T23:37:31.936Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "..\\GymManagementSystem02\\GymManagment.BLL\\Services\\Classes\\MemberService.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAwEYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T23:37:14.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T23:37:14.296Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.PL\\Controllers\\MemberController.cs",
               "ToolTip": "E:\\GymManagementSystem02\\GymManagement.PL\\Controllers\\MemberController.cs",
               "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.PL\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-09T15:12:46.408Z",
               "EditorCaption": ""
@@ -73,8 +71,7 @@
               "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.PL\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T10:30:14.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T10:30:14.91Z"
             }
           ]
         }
