@@ -22,11 +22,11 @@ namespace GymSystem.PL.Controllers
         [HttpGet]
         public IActionResult Create() => View();
 
-        public async  Task<IActionResult >CreateMember(CreateMemberViewModel model,CancellationToken ct = default)
+        public async Task<IActionResult> CreateMember(CreateMemberViewModel model, CancellationToken ct = default)
         {
             if (!ModelState.IsValid) return View(nameof(Create), model);
 
-            var result =await  _memberService.CreateMemberAsync(model, ct);
+            var result = await _memberService.CreateMemberAsync(model, ct);
 
             if (result)
                 TempData["SuccessMessage"] = "Member Created Successfully";
@@ -34,7 +34,30 @@ namespace GymSystem.PL.Controllers
                 TempData["ErrorMessage"] = "Member Failed To Create";
 
 
-            return RedirectToAction(nameof(Index)); 
+            return RedirectToAction(nameof(Index));
+        }
+        [HttpGet]
+        public async Task<IActionResult> MemberDetails(int id, CancellationToken ct = default)
+        {
+            var member = await _memberService.GetMemberDetailsAsync(id, ct);
+            if (member == null)
+            {
+                TempData["ErrorMessage"] = "Member Not Found";
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(member);
+        }
+        [HttpGet]
+        public async Task<IActionResult> HealthRecordDetails(int Id, CancellationToken ct = default)
+        {
+            var healthRecord = await _memberService.GetMemberHealthRecordDetailsAsync(Id, ct);
+            if (healthRecord == null)
+            {
+                TempData["ErrorMessage"] = "Health Record Not Found";
+                return RedirectToAction(nameof(Index));
+            }
+            return View(healthRecord);
         }
     }
 }
