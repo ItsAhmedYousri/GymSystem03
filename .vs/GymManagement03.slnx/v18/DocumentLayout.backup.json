@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "E:\\GymManagement03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A70D107-71EA-DA12-EA42-6C1CFE1A1A0A}|..\\GymManagementSystem02\\GymManagement.PL\\GymSystem.PL.csproj|e:\\gymmanagementsystem02\\gymmanagement.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\HealthRecordDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A70D107-71EA-DA12-EA42-6C1CFE1A1A0A}|..\\GymManagementSystem02\\GymManagement.PL\\GymSystem.PL.csproj|e:\\gymmanagementsystem02\\gymmanagement.pl\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -12,7 +18,19 @@
       "AbsoluteMoniker": "D:0:0:{1A478448-C3FA-3C65-FDF6-1B290B1933CC}|..\\GymManagementSystem02\\GymManagement.DAL\\GymManagement.DAL.csproj|e:\\gymmanagementsystem02\\gymmanagement.dal\\repositories\\classes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A70D107-71EA-DA12-EA42-6C1CFE1A1A0A}|..\\GymManagementSystem02\\GymManagement.PL\\GymSystem.PL.csproj|e:\\gymmanagementsystem02\\gymmanagement.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A70D107-71EA-DA12-EA42-6C1CFE1A1A0A}|..\\GymManagementSystem02\\GymManagement.PL\\GymSystem.PL.csproj|e:\\gymmanagementsystem02\\gymmanagement.pl\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A70D107-71EA-DA12-EA42-6C1CFE1A1A0A}|..\\GymManagementSystem02\\GymManagement.PL\\GymSystem.PL.csproj|e:\\gymmanagementsystem02\\gymmanagement.pl\\views\\member\\memberdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A245CF-F72C-1AF4-37D1-C75231B956D0}|..\\GymManagementSystem02\\GymManagment.BLL\\GymManagment.BLL.csproj|e:\\gymmanagementsystem02\\gymmanagment.bll\\services\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A245CF-F72C-1AF4-37D1-C75231B956D0}|..\\GymManagementSystem02\\GymManagment.BLL\\GymManagment.BLL.csproj|e:\\gymmanagementsystem02\\gymmanagment.bll\\viewmodels\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A478448-C3FA-3C65-FDF6-1B290B1933CC}|..\\GymManagementSystem02\\GymManagement.DAL\\GymManagement.DAL.csproj|e:\\gymmanagementsystem02\\gymmanagement.dal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,56 +40,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Classes\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Classes\\GenericRepository.cs",
-              "ToolTip": "E:\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Classes\\GenericRepository.cs",
-              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Classes\\GenericRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAuwCoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T23:37:31.936Z"
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagement.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\GymManagementSystem02\\GymManagement.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T20:13:57.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MemberService.cs",
-              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagment.BLL\\Services\\Classes\\MemberService.cs",
-              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagment.BLL\\Services\\Classes\\MemberService.cs",
-              "ToolTip": "E:\\GymManagementSystem02\\GymManagment.BLL\\Services\\Classes\\MemberService.cs",
-              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagment.BLL\\Services\\Classes\\MemberService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAwEYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T23:37:14.296Z"
+              "Title": "HealthRecordDetails.cshtml",
+              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\HealthRecordDetails.cshtml",
+              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\HealthRecordDetails.cshtml",
+              "ToolTip": "E:\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\HealthRecordDetails.cshtml",
+              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\HealthRecordDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T20:12:27.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MemberController.cs",
               "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagement.PL\\Controllers\\MemberController.cs",
               "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.PL\\Controllers\\MemberController.cs",
               "ToolTip": "E:\\GymManagementSystem02\\GymManagement.PL\\Controllers\\MemberController.cs",
               "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.PL\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwDMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T15:12:46.408Z",
+              "WhenOpened": "2026-06-10T16:00:21.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberDetails.cshtml",
+              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\MemberDetails.cshtml",
+              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\MemberDetails.cshtml",
+              "ToolTip": "E:\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\MemberDetails.cshtml",
+              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\MemberDetails.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T16:05:13.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\Index.cshtml",
+              "ToolTip": "E:\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.PL\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwIYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T19:34:48.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "ToolTip": "E:\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Classes\\GenericRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:48:50.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagement.PL\\Program.cs",
-              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.PL\\Program.cs",
-              "ToolTip": "E:\\GymManagementSystem02\\GymManagement.PL\\Program.cs",
-              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.PL\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagment.BLL\\Services\\Classes\\MemberService.cs",
+              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagment.BLL\\Services\\Classes\\MemberService.cs",
+              "ToolTip": "E:\\GymManagementSystem02\\GymManagment.BLL\\Services\\Classes\\MemberService.cs",
+              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagment.BLL\\Services\\Classes\\MemberService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwIMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T10:30:14.91Z"
+              "WhenOpened": "2026-06-10T15:36:17.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagment.BLL\\Services\\Interfaces\\IMemberService.cs",
+              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagment.BLL\\Services\\Interfaces\\IMemberService.cs",
+              "ToolTip": "E:\\GymManagementSystem02\\GymManagment.BLL\\Services\\Interfaces\\IMemberService.cs",
+              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagment.BLL\\Services\\Interfaces\\IMemberService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:35:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemberViewModel.cs",
+              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagment.BLL\\ViewModels\\MemberViewModel.cs",
+              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagment.BLL\\ViewModels\\MemberViewModel.cs",
+              "ToolTip": "E:\\GymManagementSystem02\\GymManagment.BLL\\ViewModels\\MemberViewModel.cs",
+              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagment.BLL\\ViewModels\\MemberViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:45:36.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "E:\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\GymManagementSystem02\\GymManagement.DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:49:05.468Z",
+              "EditorCaption": ""
             }
           ]
         }
